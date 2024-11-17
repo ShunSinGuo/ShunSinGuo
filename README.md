@@ -1,10 +1,14 @@
 ## Hi there 👋
 I'm Water and I am a New graduate. 
-
+<style>
+  a {
+    color: transparent;
+  }
+</style>
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <a href="https://www.cprogramming.com/" color="transparent" target="_blank" rel="noreferrer">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
       alt="c"
