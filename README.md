@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm Water and I am a New graduate. 
-## Languages and Tools📚:
+## Languages and Tools📚
 <ul>
   <li>HTML5</li>
   <li>CSS</li>
