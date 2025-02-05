@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Water and I am a New graduate. 
+I'm Water.
 ## Languages and Tools 📚
 <ul>
   <li>HTML5</li>
